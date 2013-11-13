@@ -2,3 +2,4 @@ name: PyPool
 description: Liverpool Python User Group
 markdown: redcarpet
 pygments: true
+permalink: :title
