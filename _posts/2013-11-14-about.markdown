@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "About PyPool"
 date:   2013-11-14 
 ---
