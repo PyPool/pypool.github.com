@@ -1,0 +1,24 @@
+---
+layout: default
+title:  "About PyPool"
+date:   2013-11-14 
+---
+
+{% highlight python %}
+#!/usr/bin/python3
+print("Hello World")  
+{% endhighlight %}
+
+PyPool is a group for anyone with an interest in the Python programming language. We meet on the second Monday of each month in [DoES Liverpool](http://doesliverpool.com/). All abilities are welcome.
+
+Meetings generally take the form of someone setting a challenge to the group and splitting into small groups to work on it; ideally these should be tasks that are both approachable to new programmers and enjoyable for the very experienced.
+
+We may look at getting speakers for future members, but it very much depends on what the group members prefer.
+
+If you'd like to have a look at what we've been working on at past meetings, have a look at our [GitHub profle](https://github.com/pypool).
+
+If you'd like to get in touch, Twitter is probably your best bet - or if you prefer, you can email us at <pythonliverpool@gmail.com>.
+
+If you're intending to come along to one of our meetings, please RSVP on [our Meetup page](http://www.meetup.com/PyPool/) - it's useful if we know roughly how many people to expect.
+
+Finally, if you have anything that you'd like to go up on this blog, you can submit it in the form of a pull request on GitHub - it's built using [Jekyll](http://jekyllrb.com/), so it's just a matter of adding a file to the _posts directory of the [pypool.github.com repo](https://github.com/PyPool/pypool.github.com).
