@@ -17,7 +17,7 @@ We may look at getting speakers for future members, but it very much depends on 
 
 If you'd like to have a look at what we've been working on at past meetings, have a look at our [GitHub profle](https://github.com/pypool).
 
-If you'd like to get in touch, Twitter is probably your best bet - or if you prefer, you can email us at <pythonliverpool@gmail.com>.
+If you'd like to get in touch, [Twitter](http://twitter.com/pypool) is probably your best bet - or if you prefer, you can email us at <pythonliverpool@gmail.com>.
 
 If you're intending to come along to one of our meetings, please RSVP on [our Meetup page](http://www.meetup.com/PyPool/) - it's useful if we know roughly how many people to expect.
 
